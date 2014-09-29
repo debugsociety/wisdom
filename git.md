@@ -4,3 +4,5 @@
 
 2. Useful commands:
   git show-branch
+
+git fetch --prune --all
